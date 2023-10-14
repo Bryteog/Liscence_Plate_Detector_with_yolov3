@@ -1,6 +1,8 @@
 # yolo-license-plate-detection
 
-:  [![Inspiration](https://img.youtube.com/vi/NXjCJZxeaQA/0.jpg)](https://www.youtube.com/watch?v=NXjCJZxeaQA)
+Inspiration
+
+ [![Inspiration](https://img.youtube.com/vi/NXjCJZxeaQA/0.jpg)](https://www.youtube.com/watch?v=NXjCJZxeaQA)
 
 Forked from [this repository](https://github.com/alitourani/yolo-license-plate-detection).
 
