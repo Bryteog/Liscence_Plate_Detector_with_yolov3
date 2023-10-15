@@ -1,10 +1,5 @@
 # yolo-license-plate-detection
 
-Inspiration
-
- [![Inspiration](https://img.youtube.com/vi/NXjCJZxeaQA/0.jpg)](https://www.youtube.com/watch?v=NXjCJZxeaQA)
-
-Forked from [this repository](https://github.com/alitourani/yolo-license-plate-detection).
 
 ## 🔨 Environment
 
@@ -19,24 +14,30 @@ You can download the weights file from [this](https://drive.google.com/file/d/1v
 ### Test on a single image:
 
 ```
-python plate_detector_main.py --image=bird.jpg
+python object_detection_yolo.py --image=bird.jpg
 ```
 
 ### Test on an images directory:
 
 ```
-python plate_detector_main.py --image-dir=./image-directory
+python object_detection_yolo.py --image-dir=./image-directory
 ```
 
 ### Test on a single video file:
 
 ```
-python plate_detector_main.py --video=cars.mp4
+python object_detection_yolo.py --video=cars.mp4
 ```
 
 ### Test on the webcam:
 
 ```
-python plate_detector_main.py
+python object_detection_yolo.py
 ```
 
+
+Inspiration
+
+ [![Inspiration](https://img.youtube.com/vi/NXjCJZxeaQA/0.jpg)](https://www.youtube.com/watch?v=NXjCJZxeaQA)
+
+Forked from [this repository](https://github.com/alitourani/yolo-license-plate-detection).
