@@ -1,0 +1,1 @@
+Download model weights from the link provided in the readme
